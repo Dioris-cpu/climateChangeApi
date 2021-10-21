@@ -2,7 +2,7 @@ const cheerio = require("cheerio");
 const axios = require("axios");
 const express = require("express");
 const app = express();
-const port = 8000;
+const port = 3000;
 const articles = [];
 // app.get("/", (req, res) => {
 //   res.send("Welcome");
